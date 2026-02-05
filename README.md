@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, sou o aluno Felippe de TI na Escola Luiz Rosa, cursando Orientação a Objetos e Sistemas Operacionais 👋
 
 <!--
 **felpz2009/felpz2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
